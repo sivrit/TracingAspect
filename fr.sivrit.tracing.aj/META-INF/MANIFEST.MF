@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Export-Package: fr.sivrit.tracing.aj;aspects=TracingAspect
+Require-Bundle: org.aspectj.runtime
+Eclipse-SupplementBundle: TestPlugin,org.eclipse.jface
+Bundle-Vendor: ME
+Bundle-Version: 0.0.1
+Bundle-Name: fr.sivrit.tracing.aj
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: fr.sivrit.tracing.aj;singleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
